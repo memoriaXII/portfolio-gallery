@@ -64,8 +64,6 @@ devnet: : https://dev.agx.xyz
 
 <img width="1897" alt="image" src="https://github.com/user-attachments/assets/76f81758-de0d-4ab0-b665-31602db6b169" />
 
-<img width="715" alt="image" src="https://github.com/user-attachments/assets/65900854-d147-4118-b8dd-e26597384e2d" />
-
 
 
 - Led the development of AGX, a high-leverage (up to 100x) decentralized perpetual exchange built on zkLink Nova Layer 3 rollup, delivering the speed of centralized exchanges with the security of DeFi.
